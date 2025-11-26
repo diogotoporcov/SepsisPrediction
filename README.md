@@ -53,11 +53,11 @@ The dataset consists of the following feature groups:
 | **HR**    | Heart rate (beats per minute)         |
 | **O2Sat** | Peripheral oxygen saturation (%)      |
 | **Temp**  | Body temperature (°C)                 |
-| **SBP**   | Systolic blood pressure (mm Hg)       |
-| **MAP**   | Mean arterial pressure (mm Hg)        |
-| **DBP**   | Diastolic blood pressure (mm Hg)      |
+| **SBP**   | Systolic blood pressure (mmHg)       |
+| **MAP**   | Mean arterial pressure (mmHg)        |
+| **DBP**   | Diastolic blood pressure (mmHg)      |
 | **Resp**  | Respiration rate (breaths per minute) |
-| **EtCO₂** | End-tidal carbon dioxide (mm Hg)      |
+| **EtCO₂** | End-tidal carbon dioxide (mmHg)      |
 
 ### Laboratory Values (columns 9–34)
 
@@ -67,7 +67,7 @@ The dataset consists of the following feature groups:
 | **HCO₃**             | Bicarbonate (mmol/L)                     |
 | **FiO₂**             | Fraction of inspired oxygen (%)          |
 | **pH**               | Blood acidity level                      |
-| **PaCO₂**            | Arterial partial pressure of CO₂ (mm Hg) |
+| **PaCO₂**            | Arterial partial pressure of CO₂ (mmHg) |
 | **SaO₂**             | Arterial oxygen saturation (%)           |
 | **AST**              | Aspartate transaminase (IU/L)            |
 | **BUN**              | Blood urea nitrogen (mg/dL)              |
