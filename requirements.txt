@@ -1,0 +1,11 @@
+joblib
+tqdm
+pandas
+numpy
+pandas-stubs
+pyarrow
+matplotlib
+seaborn
+scikit-learn
+catboost
+awscli

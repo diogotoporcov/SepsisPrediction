@@ -1,0 +1,6 @@
+.venv/
+.idea/
+data/
+models/
+preds/
+catboost/
