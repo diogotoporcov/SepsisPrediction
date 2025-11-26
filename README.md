@@ -13,7 +13,7 @@ Advances in Artificial Intelligence have driven significant progress in medical 
 
 This project focuses on developing an AI predictive model capable of identifying early signs of sepsis based on vital signs and laboratory test data, aiming to support faster and more effective clinical decision-making.
 
-> **Note:** This project is conducted in collaboration with the Hospital das Clínicas of the University of São Paulo (HC-USP).
+> **Note:** This project is conducted in collaboration with the Clinical Hospital of the University of São Paulo Medical School (HCFMUSP).
 ---
 
 ## Summary
