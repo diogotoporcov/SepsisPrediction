@@ -5,7 +5,7 @@
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.x-yellow.svg)](https://scikit-learn.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 
-Research project developed for my undergraduate scientific initiation at the **Federal Institute of São Paulo (IFSP)**, supported by the **Institutional Scientific and Technological Initiation Scholarship Program (PIBIFSP)**.
+Research project developed for my undergraduate scientific initiation at the **Federal Institute of São Paulo (IFSP)** in collaboration with the **Clinical Hospital of the University of São Paulo Medical School (HCFMUSP)**, supported by the **Institutional Scientific and Technological Initiation Scholarship Program (PIBIFSP)**.
 
 Sepsis is a severe and rapidly progressing clinical condition triggered by a dysregulated immune response to infection, often leading to multiple organ failure and high mortality. Early symptoms, such as fever, altered heart rate, and subtle physiological changes, are nonspecific and overlap with other medical conditions, making early detection challenging.
 
@@ -13,7 +13,6 @@ Advances in Artificial Intelligence have driven significant progress in medical 
 
 This project focuses on developing an AI predictive model capable of identifying early signs of sepsis based on vital signs and laboratory test data, aiming to support faster and more effective clinical decision-making.
 
-> **Note:** This project is conducted in collaboration with the Clinical Hospital of the University of São Paulo Medical School (HCFMUSP).
 ---
 
 ## Summary
