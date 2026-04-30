@@ -234,4 +234,4 @@ While the official scoring dataset is private, this enables approximate compatib
 
 ## License
 
-This project is licensed under the MIT License - See [LICENSE](LICENSE) for more information.
+This project is licensed under the GPLv3 License - See [LICENSE](LICENSE) for more information.
